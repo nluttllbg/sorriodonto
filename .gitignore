@@ -1,0 +1,14 @@
+# Skills e configurações de agentes IA (não fazem parte do site)
+.opencode/
+.agents/
+.codex/
+.claude/
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Dependências e builds (se um dia houver)
+node_modules/
+dist/
